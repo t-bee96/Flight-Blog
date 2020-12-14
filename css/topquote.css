@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100&display=swap');
+q {
+    width:100%;
+    justify-content: center;
+    font-family: 'Gothic A1', sans-serif;
+    font-family: 'Gothic A1';
+    font-size: small;
+    
+  } 
+.quote
+{
+    text-align:center;
+
+}
